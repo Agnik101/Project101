@@ -1,1 +1,18 @@
+<h1>Image processing and GUI<\h1>
+
+Pillow==9.3.0
+
+# GUI framework
+tkinter  # Note: tkinter is included with standard Python installations, no need to install separately
+
+# Computer vision
+opencv-python==4.6.0.66
+
+# Numerical operations
+numpy==1.23.5
+
+# Deep learning framework
+tensorflow==2.11.0  # Keras is included with TensorFlow 2.x
+# If you want to use standalone Keras, uncomment the next line
+# keras==2.11.0
 
