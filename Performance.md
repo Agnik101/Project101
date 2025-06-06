@@ -19,7 +19,7 @@
 3. **Directory Structure Setup**
    - Dataset was structured using a folder-per-class format:
      ```
-     ├── data/
+     ├── dataSet/TrainingSet
          ├── A/
          ├── B/
          ├── C/
