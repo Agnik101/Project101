@@ -17,7 +17,7 @@
 <b>numpy==1.23.5</b>
 
 <hr></hr>
-# Deep Learning Framework
+<h1><b>Deep Learning Framework</b></h1>
 <b>tensorflow==2.11.0</b>
 
 
