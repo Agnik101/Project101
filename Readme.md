@@ -19,6 +19,8 @@ The Sign Language to Text Converter is a Python-based application that utilizes 
 - NumPy
 - Pillow
 - Tkinter
+- Convolutional Neural Networks
+  
 
 ## Installation
 
