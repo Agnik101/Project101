@@ -32,10 +32,6 @@ This section outlines the step-by-step **Sign Language to Text Converter** pipel
   Word Formation (Character Accumulation)
      │
      ▼
-  🪄
-  Spell Checker Suggestion (PySpeller)
-     │
-     ▼
   🧩
   Sentence Formation (Word Accumulation)
      │
