@@ -9,7 +9,7 @@ from string import ascii_uppercase
 
 class Application:
     def __init__(self):
-        self.directory = r'D:\python\NewPRJ'
+        self.directory = r'D:\python\NewPRJ\model'
         self.vs = cv2.VideoCapture(0)
         self.current_image = None
         self.current_image2 = None
