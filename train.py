@@ -40,7 +40,7 @@ classifier.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['
 
 # Step 2 - Preparing the train/test data and training the model
 classifier.summary()
-# Code copied from - https://keras.io/preprocessing/image/
+
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 train_datagen = ImageDataGenerator(
